@@ -28,9 +28,11 @@ Zachowanie reżimu dietetycznego jest bardzo ważnym czynnikiem rokowniczym, a
  
 Głównym założeniem oprogramowania DiPA jest umożliwienie chorym dostępu do bazy polskich produktów, opracowanej pod kątem zaleceń żywieniowych. Dzięki przystępnemu interfejsowi każdy, w tym także osoby starsze, będą mogły łatwo odnaleźć poszukiwaną przez siebie informację. Aplikacja zawiera zbilansowane i ułożone przez dietetyka przepisy oraz pozwala poszerzyć wiedzę na temat dializoterapii i chorób nerek.
 
+## Regulamin aplikacji
+Regulamin aplikacji dostępny jest [tutaj](https://www.dipa.pl/regulamin)
 
 ## Polityka prywatności
-Polityka prywatności dostępna jest [tutaj](https://maxiwoj.github.io/DiPA/privacy_policy)
+Polityka prywatności dostępna jest [tutaj](https://www.dipa.pl/privacy_policy)
 
 ## Jak pobrać aplikację
 Aplikacja obecnie jest w fazie zamkniętych testów, ale już niedługo dostępna będzie w sklepie Google Play na smartfony z systemem Android.
