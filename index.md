@@ -16,7 +16,7 @@ Dieta stanowi jeden z najważniejszych elementów opieki nad chorymi dializowany
 Jeżeli jesteś pacjentem dializowanym, któremu przestrzeganie diety sprawia problem lub lekarzem nefrologiem to aplikacja właśnie dla Ciebie!
 
 <div style="display: flex; flex-wrap: wrap; align-content: center;">
-	<iframe  style="margin: 10px auto 20px; display: block;" width="560" height="315" src="https://www.youtube.com/watch?v=aIG3I3s-kII" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/aIG3I3s-kII" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 ## O aplikacji
 
